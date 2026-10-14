@@ -1,0 +1,12 @@
+
+.venv/
+__pycache__/
+*.pyc
+.env
+memory_data.csv
+memory_analysis.csv
+leak_analysis.csv
+memguard_model.pkl
+diagnostic_report.md
+ai_diagnostic_report.md
+.streamlit/secrets.toml
